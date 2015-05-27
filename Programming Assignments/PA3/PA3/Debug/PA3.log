@@ -1,0 +1,47 @@
+﻿Build started 9/29/2014 3:26:23 PM.
+     1>Project "C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\PA3\PA3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt common_functions.c functions.c main.c menu_system.c testPA.c
+         testPA.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\testpa.c(169): warning C4101: 'postfixString' : unreferenced local variable
+         menu_system.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\menu_system.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\menu_system.c(77): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\menu_system.c(78): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\menu_system.c(81): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\menu_system.c(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+         main.c
+         functions.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\functions.c(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\functions.c(38): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\functions.c(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\functions.c(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\functions.c(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+         common_functions.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\common_functions.c(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa3\pa3\common_functions.c(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\Debug\PA3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\Debug\PA3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\Debug\PA3.lib" /MACHINE:X86 /SAFESEH Debug\common_functions.obj
+         Debug\functions.obj
+         Debug\main.obj
+         Debug\menu_system.obj
+         Debug\testPA.obj
+     1>common_functions.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         PA3.vcxproj -> C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\Debug\PA3.exe
+     1>Done Building Project "C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA3\PA3\PA3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.47

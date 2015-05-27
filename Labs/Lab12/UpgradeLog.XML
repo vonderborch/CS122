@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab12">
+</Property><Property Name="Solution File" Value="C:\Users\Ricky\Dropbox\School\CPT S 122\Labs\Lab12\Lab12.sln">
+</Property><Property Name="Date" Value="Tuesday, September 18, 2012">
+</Property><Property Name="Time" Value="16:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Lab12" Source="Lab12\Lab12.vcproj" Description="Converting project file 'C:\Users\Ricky\Dropbox\School\CPT S 122\Labs\Lab12\Lab12\Lab12.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Lab12" Source="Lab12\Lab12.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Lab12" Source="Lab12\Lab12.vcproj" Description="Done converting to new project file 'C:\Users\Ricky\Dropbox\School\CPT S 122\Labs\Lab12\Lab12\Lab12.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Lab12" Source="Lab12\Lab12.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab12.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lab12.sln" Description="Converted">
+</Event></UpgradeLog>

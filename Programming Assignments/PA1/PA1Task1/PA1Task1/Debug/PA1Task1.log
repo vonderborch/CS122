@@ -1,0 +1,24 @@
+﻿Build started 9/29/2014 3:27:16 PM.
+     1>Project "C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\PA1Task1\PA1Task1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt functions.c main.c
+         main.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\main.c(44): warning C4047: 'function' : 'char ***' differs in levels of indirection from 'char *(*)[64]'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\main.c(44): warning C4024: 'sortStrings' : different types for formal and actual parameter 1
+         functions.c
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\functions.c(69): warning C4047: 'function' : 'const char *' differs in levels of indirection from 'char **'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\functions.c(69): warning C4024: 'strcmp' : different types for formal and actual parameter 1
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\functions.c(69): warning C4024: 'strcmp' : different types for formal and actual parameter 2
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\functions.c(73): warning C4047: '=' : 'char *' differs in levels of indirection from 'char **'
+     1>c:\users\ricky\skydrive\schooldropbox\cpt s 122\programming assignments\pa1\pa1task1\pa1task1\functions.c(75): warning C4047: '=' : 'char **' differs in levels of indirection from 'char *'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\Debug\PA1Task1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\Debug\PA1Task1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\Debug\PA1Task1.lib" /MACHINE:X86 /SAFESEH Debug\functions.obj
+         Debug\main.obj
+     1>functions.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         PA1Task1.vcxproj -> C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\Debug\PA1Task1.exe
+     1>Done Building Project "C:\Users\Ricky\SkyDrive\SchoolDropbox\CPT S 122\Programming Assignments\PA1\PA1Task1\PA1Task1\PA1Task1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

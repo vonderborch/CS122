@@ -1,0 +1,1 @@
+We decided to reset the version number to 1.0 to reduce the confusion that could be created by having similar version numbers between Joomla! and Mambo. It is not necessarily a reflection on the fact that the project is immature, but rather that it is new and will be different from Mambo. Other projects, such as Firefox, have successfully delivered mature Version 1.0 products.
