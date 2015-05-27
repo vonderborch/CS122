@@ -5,7 +5,7 @@ This repository contains all my code and miscellaneous files for CS122 that I co
 
 NOTE: all of these programs are command-line based (unless otherwise noted) and programmed in C and/or C++ on Windows-platforms (although they should compile under other operating systems).
 
-Labs and assignemnts can be found under the Assignments folder.
+Folders
 - Coding Notes: contains notes provided by Andy O'Fallon and the TA for the course.
 - Common Files: contains my menu system (updated from the version in CS121) and some common functions that I found I was using a lot.
 - Programming Assignments: contains programming assignments for the class.
